@@ -8,30 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e1c87b-643d-4786-a796-5d46965fa6a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Simple Image Cace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/blog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/auth/auth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/auth/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/auth/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/blog/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/blog/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_blog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Simple Image Cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Basic Blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="55e1c87b-643d-4786-a796-5d46965fa6a5" name="Changes" comment="Index html">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,12 +107,34 @@
       <workItem from="1717006589620" duration="66000" />
       <workItem from="1717006667071" duration="2404000" />
       <workItem from="1717057909852" duration="500000" />
-      <workItem from="1717058419885" duration="2607000" />
+      <workItem from="1717058419885" duration="4697000" />
     </task>
+    <task id="LOCAL-00001" summary="Tests added">
+      <option name="closed" value="true" />
+      <created>1717063069990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717063069990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Index html">
+      <option name="closed" value="true" />
+      <created>1717063084193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717063084193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tests added" />
+    <MESSAGE value="Index html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Index html" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Simple_Image_Cace$Simple_Image_Cace.coverage" NAME="Simple Image Cace Coverage Results" MODIFIED="1716989959292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
